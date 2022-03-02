@@ -1,5 +1,3 @@
-console.log("Am I working?");
-
 let gameIsOver = false;
 let score = 0;
 let interval = 0;
